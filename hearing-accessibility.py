@@ -18,22 +18,22 @@
 # beyond what has been provided.
 
 # Any imports such as for AI models, additional assets for adding vision accessibility would go here.
-# Examples would be an AI model that helps for adding closed captioning to what appears when running the game.
+# Examples would be an AI model that helps for adding closed captioning or audio readback to what appears when running the game.
 # User Interface imports would also be supported. For the simulation, it all is a placeholder as a single file.
 
 # Listed below would be a function for each of the options that are used at the start of the software.
 # The options that would be available no matter what are shown in the digital prototype based on previously completed user research would 
-# be available initially in this file.
-
-# A function for chosing which features would initially run. Initially, this would include the listed functions below but can be 
-# changed to add or remove features by updating the file.
+# be available initially in this file and can always be changed to add or remove features by updating the file.
 
 # Volume Code Placeholder
 
 # Closed Captioning Code Placeholder
+
+# Audio Readback Code Placeholder
 
 # Automizing Visual Cues Code Placeholder
 
 # Haptic Feedback Code Placeholder
 
 # User Interface Hearing Accessibility Menu Code Placeholder
+
