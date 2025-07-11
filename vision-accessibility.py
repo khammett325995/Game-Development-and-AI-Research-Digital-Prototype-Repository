@@ -31,10 +31,17 @@
 
 # Text Size Increase and Decrease Code Placeholder
 
+# Text Speed Code Placeholder
+
 # Font Customization Code Placeholder (The code would also allow for font imports of any type with a base formating in ADA supported fonts)
 
 # Motion Blur Code Placeholder (This code would be a smaller base due to how mixed reactions were present but a need still showed.)
 
+# Movement Speed Code Placeholder
+
+# Screen Brightness Code Placeholder
+
 # User Interface Vision Accessibility Menu Code Placeholder 
 # In this section, you could change aspects such as the style and size of each UI element along with creating your own UI elements for the 
 # features you choose to have in your game.
+
