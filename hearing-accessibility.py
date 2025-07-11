@@ -29,7 +29,9 @@
 
 # Closed Captioning Code Placeholder
 
-# Audio Readback Code Placeholder
+# Text to Speech Code Placeholder
+
+# Speed of Audio Readback Code Placeholder
 
 # Automizing Visual Cues Code Placeholder
 
